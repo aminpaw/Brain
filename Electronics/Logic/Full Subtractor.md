@@ -1,0 +1,1 @@
+2 [[Half Subtractor]]s connected together

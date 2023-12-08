@@ -11,7 +11,7 @@
             "id": "76295bfe1c8b5650",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,8 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76295bfe1c8b5650",
+  "active": "7082163cfcd1c662",
   "lastOpenFiles": [
+    "Electronics/Power",
+    "Electronics/Embedded Systems",
+    "Electronics/Logic",
+    "Logic.md",
+    "Electronics/Logic/Half Subtractor.md",
+    "Electronics/Power/Motors.md",
+    "Electronics/Logic/Full Subtractor.md",
+    "Electronics",
+    "Electronics/Embedded Systems/Arduino.md",
+    "Electronics/Embedded Systems/PWM.md",
+    "Arduino/Untitled.md",
+    "Arduino",
+    "README.md",
     "Brain/README.md",
     "Brain"
   ]
