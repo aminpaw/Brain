@@ -1,0 +1,2 @@
+- Use frequency hopping instead of Internet for safety reasons.
+- 

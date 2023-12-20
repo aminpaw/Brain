@@ -1,0 +1,150 @@
+{:blocks (
+{:block/created-at 1701774227991
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "pink"
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "pink"
+:type "box"
+:size [496 320]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "c4490c60-935c-11ee-a284-33351ef6efda"
+:fontWeight 400
+:noFill false
+:point [144 160]
+:fontSize 20
+:parentId "656f0185-3c0d-454b-a322-23294ffafe7c"
+:nonce 1701773715047
+:italic false}}
+:block/updated-at 1701774227991} 
+{:block/created-at 1701774227995
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [80 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "ccfd4a10-935c-11ee-a284-33351ef6efda"
+:fontWeight 400
+:noFill false
+:point [536 272]
+:fontSize 20
+:parentId "656f0185-3c0d-454b-a322-23294ffafe7c"
+:nonce 1701773729834
+:italic false}}
+:block/updated-at 1701774227995} 
+{:block/created-at 1701774227996
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "box"
+:size [48 280]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "df9e1e60-935c-11ee-a284-33351ef6efda"
+:fontWeight 400
+:noFill false
+:point [384 176]
+:fontSize 20
+:parentId "656f0185-3c0d-454b-a322-23294ffafe7c"
+:nonce 1701773760957
+:italic false}}
+:block/updated-at 1701774227996} 
+{:block/created-at 1701773784461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [439 439]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "eac5a600-935c-11ee-a284-33351ef6efda"
+:fontWeight 400
+:noFill false
+:point [690.5 90.5]
+:fontSize 20
+:parentId "656f0185-3c0d-454b-a322-23294ffafe7c"
+:nonce 1701773778135
+:italic false}}
+:block/updated-at 1701773784461} 
+{:block/created-at 1701773801254
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "ellipse"
+:size [304 304]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "f133c440-935c-11ee-a284-33351ef6efda"
+:fontWeight 400
+:noFill false
+:point [760 152]
+:fontSize 20
+:parentId "656f0185-3c0d-454b-a322-23294ffafe7c"
+:nonce 1701773789024
+:italic false}}
+:block/updated-at 1701773801254} 
+{:block/content "lll"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "656f0185-3c0d-454b-a322-23294ffafe7c"}
+:block/parent 
+{:block/uuid #uuid "656f0185-3c0d-454b-a322-23294ffafe7c"}
+:block/properties 
+{}
+:block/uuid #uuid "656f03a8-7d71-49c4-b215-e24b5f344f4b"})
+:pages (
+{:block/uuid #uuid "656f0185-3c0d-454b-a322-23294ffafe7c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "656f0185-3c0d-454b-a322-23294ffafe7c"
+:name "656f0185-3c0d-454b-a322-23294ffafe7c"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("c4490c60-935c-11ee-a284-33351ef6efda" "ccfd4a10-935c-11ee-a284-33351ef6efda" "df9e1e60-935c-11ee-a284-33351ef6efda" "eac5a600-935c-11ee-a284-33351ef6efda" "f133c440-935c-11ee-a284-33351ef6efda")}}
+:block/updated-at 1701774259163
+:block/created-at 1701773701972
+:block/type "whiteboard"
+:block/name "656f0185-3c0d-454b-a322-23294ffafe7c"
+:block/original-name "656f0185-3c0d-454b-a322-23294ffafe7c"})}

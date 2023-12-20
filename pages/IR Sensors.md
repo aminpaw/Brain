@@ -1,0 +1,1 @@
+Line Following IR Sensors are very sensitive to any disturbance. Make sure that the connection to [[Arduino]] is good. 
