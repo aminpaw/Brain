@@ -1,4 +1,4 @@
-type:: project
+type:: Project
 state:: DOING
 course:: [[Intro to Mechatronics]]
 
